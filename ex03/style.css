@@ -1,0 +1,27 @@
+body{
+  background-color: #ffcc00;
+  font-family:Arial ,sans-serif;
+}
+
+
+
+.box {
+  width:280px;
+  height:100px;
+  margin-bottom:20px;
+  padding:20px;
+  font-size:20px;
+  font-weight: bold;
+
+}
+
+.opacity-box{
+  background-color: black;
+  opacity:0.5;
+  color:white;
+}
+
+.rgba-box{
+  background-color:rgba(0,0,255,0.5);
+  color:rgb(255,255,255);
+}
